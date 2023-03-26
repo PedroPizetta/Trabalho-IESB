@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Coffee Shops Tia Rosa</title>
+	<link rel="stylesheet" href="Arquivo_estilos.css">
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Menu</a></li>
+				<li><a href="#">Localização</a></li>
+				<li><a href="#">Contato</a></li>
+			</ul>
+		</nav>
+		<h1>Coffee Shops Tia Rosa</h1>
+	</header>
+	<main>
+		<section class="hero">
+			<h2>Descubra o sabor do café de verdade</h2>
+			<p>Experimente nossas variedades de café, cappuccinos, lattes e muito mais.</p>
+			<a href="#" class="btn">Veja nosso menu</a>
+		</section>
+		<section class="about">
+			<h2>Sobre nós</h2>
+			<p>O Coffee Shops Tia Rosa é uma cafeteria familiar que busca oferecer aos seus clientes uma experiência única, com a qualidade de um café de verdade e ambiente acolhedor.</p>
+			<a href="#" class="btn">Saiba mais</a>
+		</section>
+		<section class="location">
+			<h2>Localização</h2>
+			<p>Estamos localizados na rua da Paz, 123, no bairro Santa Tereza, em Belo Horizonte.</p>
+			<a href="#" class="btn">Veja no mapa</a>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Coffee Shops Tia Rosa. Todos os direitos reservados.</p>
+	</footer>
+</body>
+</html>
