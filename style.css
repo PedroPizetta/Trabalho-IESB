@@ -1,11 +1,9 @@
-/* Definindo as cores do Brasil */
 :root {
   --br-green: #009B3A;
   --br-yellow: #FEC200;
   --br-blue: #002776;
 }
 
-/* Estilos para a página inicial */
 body {
   background-color: var(--br-green);
   color: white;
@@ -27,7 +25,6 @@ p {
   margin: 0 0 20px 0;
 }
 
-/* Estilos para os botões */
 .button {
   display: inline-block;
   padding: 12px 24px;
